@@ -1,0 +1,50 @@
+.container {
+    margin-top: 40px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card-price {
+    font-size: 2rem;
+    color: #ff9800;
+    margin-bottom: 1rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .btn-warning {
+    background-color: #ff9800;
+    border: none;
+  }
+  
+  .btn-warning:hover {
+    background-color: #e68900;
+  }
+  
+  .text-muted {
+    color: #6c757d !important;
+  }
+  
+  i {
+    font-size: 1.5rem;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  

@@ -1,0 +1,25 @@
+/* LinkAccount.css */
+.platform-card {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 20px;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .platform-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .platform-icon {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 10px;
+  }
+  
+  .text-primary {
+    color: #ff9800;
+     /* لون النص الرئيسي */
+  }
+  

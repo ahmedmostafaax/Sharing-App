@@ -1,0 +1,88 @@
+.rounded-circle{
+    width: 90px;
+    height: auto;
+}
+.custom-card {
+    border-radius: 15px;
+  }
+  
+  .custom-card-body {
+    padding: 20px;
+  }
+  
+  .custom-card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-label {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  .list-group-item {
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .list-group-item img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .custom-btn {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  .platform-image {
+    width: 100px; /* تحديد العرض */
+    height: 100px; /* تحديد الارتفاع */
+  }
+  .form-check-input {
+    background-color: rgb(254, 254, 253); /* تغيير لون الخلفية إلى الأصفر */
+    border-color: rgb(221, 221, 120); /* تغيير لون الحدود إلى الأصفر */
+  }
+  
+  .form-check-input:checked {
+    background-color: yellow; /* تغيير لون الخلفية عندما يكون العنصر محددًا */
+    border-color: yellow; /* تغيير لون الحدود عندما يكون العنصر محددًا */
+  }
+  .form-container {
+    margin-top: 20px; /* تعديل التباعد العلوي حسب الحاجة */
+  }
+  
+  .custom-btn {
+    background-color: #ffc107; /* لون خلفية الزر */
+    color: #212529; /* لون النص */
+    border-color: #ffc107; /* لون الحدود */
+  
+    /* يمكنك إضافة المزيد من التخصيصات حسب الحاجة */
+  }
+  
+  .photo {
+    padding: 8px; /* تعديل الابعاد */
+    border: 1px solid #ced4da; /* لون حدود الحقل */
+    border-radius: 4px; /* شكل الحقل */
+    width: 200px; /* العرض المحدد */
+  }
+  
+  .custom-btn:hover {
+    background-color: #ffca2c; /* تعديل لون الخلفية عند تحويم الماوس */
+    border-color: #ffca2c; /* تعديل لون الحدود عند تحويم الماوس */
+  }
+  
+  

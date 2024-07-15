@@ -1,0 +1,81 @@
+.carticon1{
+  font-size: 50px;
+
+}
+
+.image{
+  width: 100px;
+}
+.small-image {
+  width: 200px;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+  width: 100%; 
+ max-width: 300px;
+}
+.bs-navbar-active-color{
+  color: yellow;
+  font-weight: bolder;
+}
+.offline{
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: yellow;
+  color:black;
+  border-radius: 20px;
+  padding: 10px 50px;
+}
+
+
+
+.input-group-text {
+ 
+  border-radius: 25px 0 0 25px;
+  background-color: #ff9800;
+}
+.form-control {
+ 
+  border-radius: 0 25px 25px 0;
+  background-color: #fdf2e9;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+.input-group-text.bg-light {
+  background-color: transparent;
+  border-radius: 0 25px 25px 0;
+}
+.btn-warning {
+  border-radius: 25px;
+}
+.btn-outline-warning {
+  border-radius: 25px;
+}
+.mb-2{
+  width: 150px;
+}
+
+.nav-link-margin {
+  margin-right: 20px;
+}
+.navbar-nav .nav-item {
+  margin-right: 20px; /* مسافة بين العناصر */
+  display: inline-block; /* عرض العناصر بجانب بعضها */
+}
+.profile-image {
+  width: 30px; /* يمكنك تعديل الحجم حسب الحاجة */
+  height: 30px; /* يمكنك تعديل الحجم حسب الحاجة */
+  border-radius: 50%; /* لجعل الصورة دائرية */
+  object-fit: cover; /* لتناسب حجم الصورة مع الحاوية */
+}
+.card-title{
+  color:black;
+}
+
+.photo{
+  display: none;
+}

@@ -1,0 +1,48 @@
+.custom-card {
+    background: linear-gradient(135deg, #ffcc33 0%, #ff6699 100%);
+    border-radius: 15px;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .custom-card-body {
+    padding: 20px;
+  }
+  
+  .custom-card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .form-label {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+  }
+  
+  .custom-btn {
+    background-color: #ff6699;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    transition: background-color 0.3s;
+  }
+  
+  .custom-btn:hover {
+    background-color: #ff3366;
+  }
+  
+  .animate__animated.animate__fadeIn {
+    animation-duration: 1s;
+  }
+  
+  .animate__animated.animate__zoomIn {
+    animation-duration: 1s;
+  }
+  
